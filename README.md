@@ -1,7 +1,7 @@
 Hi 👋 I'm Marcello, im a IT student in Italy and if you don't like "Sekiro: Shadows Die Twice", you don't understand anything about video games
 
 - 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on <a href ="https://github.com/ArmandoAnescu">
+- 👯 I’m looking to collaborate on <a href ="https://github.com/ArmandoAnescu"> </a>
 - 📫 How to reach me: targamarcello2006@gmail.com
 
 ## My Programming Languages and other things I use for now(that i learned or I'm learning rn):
