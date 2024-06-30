@@ -1,21 +1,35 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-I'm Marcello, im a IT student in Italy and if you don't like "Sekiro: Shadows Die Twice", you don't understand anything about video games
+<h2 align="left">Hi 👋! My name is Marcello and I'm a IT Student, from Italy</h2>
 
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on <href>https://github.com/ArmandoAnescu </href>
-- 📫 How to reach me: targamarcello2006@gmail.com
+###
 
-## My Programming Languages and other things I use for now(that i learned or I'm learning rn):
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="55">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="55">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="55">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="55">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="55">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="55">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<img src="https://github.com/targamarcello/targamarcello/blob/main/sekiro-02.jpg">
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img width ="12"/>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
