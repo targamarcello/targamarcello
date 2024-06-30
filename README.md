@@ -32,11 +32,5 @@
 ###
 
 <br clear="both">
-
-<div align="left">
-  <a href="https://open.spotify.com/user/Tergicocco">
-    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=s1uyl9mw3z6m0ctns592uhwe0)
-  </a>
-</div>
 <img src ="https://github.com/targamarcello/targamarcello/blob/main/sekiro-02.jpg">
 ###
