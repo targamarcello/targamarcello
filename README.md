@@ -1,4 +1,7 @@
-Hi 👋 I'm Marcello, im a IT student in Italy and if you don't like "Sekiro: Shadows Die Twice", you don't understand anything about video games
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+I'm Marcello, im a IT student in Italy and if you don't like "Sekiro: Shadows Die Twice", you don't understand anything about video games
 
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on <href>https://github.com/ArmandoAnescu </href>
