@@ -14,3 +14,5 @@ Hi 👋 I'm Marcello, im a IT student in Italy and if you don't like "Sekiro: Sh
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="55">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="55">
 </div>
+
+<img src="https://github.com/targamarcello/targamarcello/blob/main/sekiro-02.jpg">
