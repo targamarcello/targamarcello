@@ -23,6 +23,7 @@ src="https://img.shields.io/github/followers/targamarcello?logo=github&style=for
 <b>My GitHub Stats</b>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=targamarcello&layout=compact&langs_count=10)
+
 <a href="http://www.github.com/targamarcello"><img src="https://github-readme-stats.vercel.app/api?username=targamarcello&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="targamarcello's GitHub stats" /></a>
 
 <br clear="both">
