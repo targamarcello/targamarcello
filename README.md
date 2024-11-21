@@ -22,8 +22,6 @@ src="https://img.shields.io/github/followers/targamarcello?logo=github&style=for
 
 <b>My GitHub Stats</b>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=targamarcello&layout=compact&langs_count=10)
-
 <img height=180 src="https://github-readme-stats.vercel.app/api?username=targamarcello&theme=merko"> <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=targamarcello&layout=compact&langs_count=8&card_width=320&theme=merko">
 
 <br clear="both">
