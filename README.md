@@ -5,7 +5,7 @@ if you don't like "Sekiro: Shadows Die Twice", you don't understand anything abo
 
 * 🌍  I'm based in Italy
 * ✉️  You can contact me at [targamarcello2006@gmail.com](mailto:targamarcello2006@gmail.com)
-* 🧠  I'm reviewing Javascript and C
+* 🧠  I'm reviewing Java and C
 * If you want to know me write to my social below
 
 <a href="https://www.github.com/targamarcello" target="_blank" rel="noreferrer"><img
