@@ -29,4 +29,4 @@ src="https://img.shields.io/github/followers/targamarcello?logo=github&style=for
 <img height=180 src="https://github-readme-stats.vercel.app/api?username=targamarcello&theme=merko"> <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=targamarcello&layout=compact&langs_count=8&card_width=320&theme=merko">
 
 <br clear="both">
-<img src ="[https://github.com/targamarcello/targamarcello/blob/main/sekiro-02.jpg](https://github.com/targamarcello/targamarcello/blob/main/Maliketh-main.webp)">
+<img src ="https://github.com/targamarcello/targamarcello/blob/main/Maliketh-main.webp">
