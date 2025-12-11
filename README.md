@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Italy
 * ✉️  You can contact me at [targamarcello2006@gmail.com](mailto:targamarcello2006@gmail.com)
-* 🧠  I'm learning Sql and reviewing C
+* 🧠  I'm learning PHP and reviewing C
 * If you want to know me write to my social below
 
 <a href="https://www.github.com/targamarcello" target="_blank" rel="noreferrer"><img
